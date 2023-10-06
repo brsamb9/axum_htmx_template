@@ -1,0 +1,10 @@
+{
+  "name": "axum_htmx_base",
+  "version": "1.0.0",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.8",
+    "prettier-plugin-tailwindcss": "^0.3.0",
+    "tailwindcss": "^3.3.2"
+  }
+}
